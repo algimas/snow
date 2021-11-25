@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>algis.msg.demo</key>
+        <language>en</language>
+        <message>zzzz</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-25 19:21:36</sys_created_on>
+        <sys_id>76fae165db440950d48d2baf05961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>algis.msg.demo</sys_name>
+        <sys_package display_value="globalStudio" source="98caad25db440950d48d2baf05961978">98caad25db440950d48d2baf05961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="globalStudio">98caad25db440950d48d2baf05961978</sys_scope>
+        <sys_update_name>sys_ui_message_76fae165db440950d48d2baf05961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-25 19:21:36</sys_updated_on>
+    </sys_ui_message>
+</record_update>
